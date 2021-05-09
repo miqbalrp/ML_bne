@@ -13,6 +13,6 @@ ex: <br>
 `azzahrandhr_multilayer-perceptron.ipynb`.<br>
 
 Please update the brief description of the notebook below if there are any new notebook.<br>
-* data_preparation.ipynb -> Preprocessing raw data into ready-to-use data.
-* data_visualization.ipynb -> Visualize data with charts to get early insight of the data
+* `data_preparation.ipynb` -> Preprocessing raw data into ready-to-use data.
+* `data_visualization.ipynb` -> Visualize data with charts to get early insight of the data
 
