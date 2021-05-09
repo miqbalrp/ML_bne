@@ -16,3 +16,5 @@ Please update the brief description of the notebook below if there are any new n
 * `data_preparation.ipynb` -> Preprocessing raw data into ready-to-use data.
 * `data_visualization.ipynb` -> Visualize data with charts to get early insight of the data
 
+note: previous research can be seen here: https://github.com/azzahrandhr/ann_bne
+
