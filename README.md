@@ -7,8 +7,14 @@ The demo can be accessed here: https://raw.githack.com/miqbalrp/ML_bne/main/simu
 
 ## Notebook
 For development stages, use Jupyter Notebook to build models and any other necessary analysis.<br>
-Use this format for naming the notebook file: `username_description.ipynb`, ex: `miqbalrp_support-vector-machine.ipynb`.<br>
+Use this format for naming the notebook file: `username_description.ipynb`, <br>
+ex: <br>
+`miqbalrp_support-vector-machine.ipynb`.<br>
+`azzahrandhr_multilayer-perceptron.ipynb`.<br>
+
 Please update the brief description of the notebook below if there are any new notebook.<br>
-* data_preparation.ipynb -> Preprocessing raw data into ready-to-use data.
-* data_visualization.ipynb -> Visualize data with charts to get early insight of the data
+* `data_preparation.ipynb` -> Preprocessing raw data into ready-to-use data.
+* `data_visualization.ipynb` -> Visualize data with charts to get early insight of the data
+
+note: previous research can be seen here: https://github.com/azzahrandhr/ann_bne
 
