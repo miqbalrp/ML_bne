@@ -30,3 +30,9 @@ https://iopscience.iop.org/article/10.1088/1757-899X/546/5/052057</br>![image](h
 ## Work Report
 `2021/05/30` 
 * Simulation modification to perform determined (non-random) variations in vibration frequency, bed density and intruder density with fix initial position of system. 
+* Simulation: https://raw.githack.com/miqbalrp/ML_bne/main/simulation/src/bne_single_rho.html
+* Initial position: </br>![image](https://user-images.githubusercontent.com/38918617/120110331-3ba7b080-c197-11eb-878d-b0953fdad09b.png)
+* Densities are varied from 700, 720, 740, ... 880
+* Frequencies are varied from 5, 10, 15, ...
+* 
+
