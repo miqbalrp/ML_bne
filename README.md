@@ -26,3 +26,7 @@ https://iopscience.iop.org/article/10.1088/1755-1315/31/1/012001
 https://iopscience.io.org/article/10.1088/1742-6596/739/1/012135
 * `Putra et al 2019`: The network of the bed changes as the intruder rises.
 https://iopscience.iop.org/article/10.1088/1757-899X/546/5/052057</br>![image](https://user-images.githubusercontent.com/38918617/120106642-1eb7b100-c188-11eb-9966-4d9c413be6f5.png)
+
+## Work Report
+`2021/05/30` 
+* Simulation modification to perform determined (non-random) variations in vibration frequency, bed density and intruder density with fix initial position of system. 
