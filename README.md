@@ -14,6 +14,9 @@ https://iopscience.iop.org/article/10.1088/1755-1315/31/1/012001
 https://iopscience.io.org/article/10.1088/1742-6596/739/1/012135
 * `Putra et al 2019`: The network of the bed changes as the intruder rises.
 https://iopscience.iop.org/article/10.1088/1757-899X/546/5/052057</br>![image](https://user-images.githubusercontent.com/38918617/120106642-1eb7b100-c188-11eb-9966-4d9c413be6f5.png)
+* `Clamarra et al 2006`: Relation between density, diameter, and &Gamma; to BNE/RBNE.
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.96.058001 </br> ![image](https://user-images.githubusercontent.com/38918617/120123868-9531ce80-c1db-11eb-95e5-3147445f9d73.png)
+
 
 ## Work Report
 `2021/05/30` 
@@ -22,5 +25,6 @@ https://iopscience.iop.org/article/10.1088/1757-899X/546/5/052057</br>![image](h
 * Initial position: </br>![image](https://user-images.githubusercontent.com/38918617/120110331-3ba7b080-c197-11eb-878d-b0953fdad09b.png)
 * Densities are varied from 700, 720, 740, ... 880
 * Frequencies are varied from 5, 10, 15, ...
-* 
+* Relation of intruder and bed density with normalized acceleration can be shown below (for f=5,10,15): </br> ![newplots](https://user-images.githubusercontent.com/38918617/120123636-2607aa80-c1da-11eb-98fd-d360348c8f50.png)
+
 
