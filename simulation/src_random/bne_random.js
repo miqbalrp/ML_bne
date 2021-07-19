@@ -593,7 +593,8 @@ function loopSimulate() {
                 + "," + rhog_int.toFixed(2)
                 + "," + rhog_bed.toFixed(2)
                 + "," + freq.toFixed(2)
-                + "," + Amp_ori.toFixed(3) + ","
+                + "," + Amp_ori.toFixed(3)
+				+ "," + r[0].y.toFixed(3) + ','
 				);
 	proc = setInterval(simulate, tproc);
 	nexp = nexp + 1;
@@ -615,6 +616,7 @@ function simulate() {
 	if (t > tdelay) {
 		if (t.toExponential(3) == tdelay.toExponential(3)) {	
 			tout(taResult,  
+				r[0].y.toFixed(3) + "," 
 				+ getContactopy() + "," 
 				);
 		}
@@ -623,7 +625,7 @@ function simulate() {
 	
 	if (t > (tend - tdelay)) {
 		vibOn = false;
-		if (t.toExponential(3) == (tend-tstep).toExponential(3)){
+		if (t.toExponential(5) == (tend-tstep).toExponential(5)){
 			var z_intruder = getRise().toFixed(4);
 
 			tout(taResult, 
@@ -920,6 +922,8 @@ function buttonClick() {
 					+ ",rho_bed"
 					+ ",freq"
 					+ ",amp"
+					+ ",yint_a"
+					+ ",yint_b"
 					+ ",con_i"
 					+ ",zint_f"
 					+ ",con_f"
@@ -943,7 +947,8 @@ function buttonClick() {
 					+ "," + rhog_int.toFixed(2)
 					+ "," + rhog_bed.toFixed(2)
 					+ "," + freq.toFixed(2)
-					+ "," + Amp_ori.toFixed(3) + ","
+					+ "," + Amp_ori.toFixed(3) 
+					+ "," + r[0].y.toFixed(3) + ','
 					);
 	} else if(cap == "Start Simulation") {
 		target.innerHTML = "Stop Simulation";
